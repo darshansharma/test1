@@ -1,0 +1,31 @@
+
+html {
+    font-family: "helvetica neue", helvetica, arial, sans-serif;
+  }
+
+
+#tfir {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#tfirst {
+    margin:10px;
+    font-weight: bold;
+    
+}
+
+.trow {
+    border-right-color: black;
+    border-right: 1px;
+    font-weight: bold;
+    display: flex;
+    margin: 5px;
+}
+
+.tdatarow {
+    flex:1;
+}
+
